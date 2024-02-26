@@ -1,0 +1,5 @@
+com/opalisplugin/util/Faction.class
+com/opalisplugin/util/faction/Faction.class
+com/opalisplugin/commands/alert.class
+com/opalisplugin/util/faction/FactionManager.class
+com/opalisplugin/util/Yml/FactionConfig.class
